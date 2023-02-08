@@ -1,7 +1,7 @@
-# Realtime Chat Web Application
+# URL Shortener Website
 Front-end developed using HTML/CSS/JS
 
-Back-end developed using Express.js and MongoDB with Socket.io and PeerJS libraries
+Back-end developed using Express.js and MongoDB
 
 ![Image of the app](https://i.ibb.co/mqT9F4J/Screenshot-41.png)
 ![Image of the app 2](https://i.ibb.co/LnxDhPG/Screenshot-42.png)
